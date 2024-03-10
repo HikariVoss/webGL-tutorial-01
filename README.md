@@ -10,4 +10,6 @@ index.js:45 WebGL: INVALID_OPERATION: useProgram: program not valid
 index.js:46 WebGL: INVALID_OPERATION: getUniformLocation: program not linked
 index.js:49 WebGL: INVALID_OPERATION: getAttribLocation: program not linked
 index.js:53 WebGL: INVALID_OPERATION: drawArrays: no valid shader program in use
-```
+``` 
+
+I don't know how to use webGL at all so im going to follow another tutorial
